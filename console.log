@@ -1,0 +1,59 @@
+<html>
+    <head>
+        <title>My first console.log project</title>
+    </head>
+    <body>
+        <p>Visual Studios Code is a interactive advanced text editor for coders to use for more complex programs.</p>
+
+        <div class="1">
+
+        </div>
+
+        <p>To get Visual Studios Code, here are the steps to do so...</p>
+
+        <div class="1">
+
+        </div>
+
+
+            
+               <p>Type, "Visual Studios Code on Google".Open the first link you see. Download the Visual Studios Code for the type of computer you have. Once it downloads, open it and go through the tutorial and basics. If you want to start coding right away with it, right click below, "CONSOLE.LOG" and click on "New File". Type in the language you are coding in, then have fun coding!. </p> 
+<div class="1">
+
+</div>
+               <p>When coding in Visual Studios, there's something called Console Screen, or in other words, Console.log. The console screen is used for important elements in your program to be printed on, or if you want others to see your output code on the console screen instead.</p>
+<div class="1">
+
+</div>
+               <p>To see someone's code on the console screen, you'll have to right click on the website, and press inspect. Then, click on the tab that says, "Console", and then voila! You can view the code!</p>
+
+          <div class="1">
+
+          </div>  
+
+          <h4>Check out my code on the console screen by inspecting!</h4>
+
+        
+    </body>
+
+<script>
+
+var one="My name is";
+var first_name="Hamsini";
+var middle_name="Reddy";
+var last_name="Bellamkonda";
+console.log(one);
+console.log(first_name);
+console.log(middle_name);
+console.log(last_name);
+var i="I am"
+var old="12 years old"
+console.log(i).concat(old);
+
+var a="10";
+var b="20";
+console.log(a).concat(plus).concat(b);
+</script>
+
+</html>
+
